@@ -1,5 +1,5 @@
 {
-  "name": "node-pkcs7",
+  "name": "sign-pkcs7",
   "version": "0.1.0",
   "description": "",
   "main": "src/index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gbhrdt/node-pkcs7"
+    "url": "git://github.com/gbhrdt/sign-pkcs7"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gbhrdt/node-pkcs7/issues"
+    "url": "https://github.com/gbhrdt/sign-pkcs7/issues"
   },
-  "homepage": "https://github.com/gbhrdt/node-pkcs7",
+  "homepage": "https://github.com/gbhrdt/sign-pkcs7",
   "dependencies": {
     "bindings": "^1.3.0",
     "nan": "^2.14.0"
